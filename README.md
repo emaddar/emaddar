@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emad DARWICH</h1>
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+<h1 ![](https://komarev.com/ghpvc/?username=your-github-username)>
 
 📊 I'm a dedicated data enthusiast with a strong background in applied statistics and mathematics. My passion for data analysis, coupled with an insatiable curiosity about the latest technologies and their real-world applications, led me to specialize in this exciting field.
 
