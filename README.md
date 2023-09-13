@@ -24,4 +24,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emaddar&langs_count=8)
 
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=emaddar)](https://github.com/anuraghazra/github-readme-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emaddar&show_icons=true&locale=en" alt="emaddar" /></p>
