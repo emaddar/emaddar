@@ -24,4 +24,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emaddar&langs_count=8)
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emaddar&show_icons=true&locale=en" alt="emaddar" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emaddar&" alt="emaddar" /></p>
