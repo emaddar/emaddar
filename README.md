@@ -15,3 +15,7 @@
 🚀 Explore my repositories to see how I bring the power of data to life in innovative and meaningful ways.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=agoor97&show_icons=true&locale=en&layout=compact" alt="agoor97" /></p>
