@@ -18,11 +18,6 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emaddar)](https://github.com/anuraghazra/github-readme-stats)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emaddar&langs_count=8)
-
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emaddar&" alt="emaddar" /></p>
